@@ -78,14 +78,14 @@ GradTrack helps schools and institutions track student performance securely and 
 ## Installation
 
 1. **Clone the repository**  
- **git clone https://github.com/yourusername/GradTrack.git
-   cd GradTrack**
+- git clone https://github.com/yourusername/GradTrack.git
+- cd GradTrack
 
 3. **Import the database**
 
- **Launch phpMyAdmin: http://localhost/phpmyadmin
+ -- Launch phpMyAdmin: http://localhost/phpmyadmin
    Create database named gradtrack_db
-   Use Import tab to upload gradtrack_db.sql**
+   Use Import tab to upload gradtrack_db.sql
 
 3. **Configure your environment**
 
