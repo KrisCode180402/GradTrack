@@ -83,16 +83,16 @@ GradTrack helps schools and institutions track student performance securely and 
 
 3. **Import the database**
 
- -- Launch phpMyAdmin: http://localhost/phpmyadmin
-   Create database named gradtrack_db
-   Use Import tab to upload gradtrack_db.sql
+- Launch phpMyAdmin: http://localhost/phpmyadmin
+- Create database named gradtrack_db
+- Use Import tab to upload gradtrack_db.sql
 
 3. **Configure your environment**
 
- **Open includes/config.php
-   Set your DB credentials:**
+- Open includes/config.php
+- Set your DB credentials:
 
- **define('DB_HOST', 'localhost');
+- **define('DB_HOST', 'localhost');
    define('DB_NAME', 'gradtrack_db');
    define('DB_USER', 'root');
    define('DB_PASS', '');
@@ -100,9 +100,9 @@ GradTrack helps schools and institutions track student performance securely and 
 
 4. **Start the server**
 
- **Open XAMPP Control Panel
-   Start Apache and MySQL
-   Access application at: http://localhost/GradTrack/**
+- Open XAMPP Control Panel
+- Start Apache and MySQL
+- Access application at: http://localhost/GradTrack/
 
 ---
 
